@@ -1,5 +1,5 @@
 # Aplikasi-GUI-Matlab
-Aaplikas GUI Matlab - Pengolahan Citra
+Aplikasi GUI Matlab - Pengolahan Citra
 `````
 Ray Fathur Rizky
 311910052
